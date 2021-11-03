@@ -1,0 +1,123 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.button1 {
+  background-color: red;
+  margin-top: 18px;
+  border-radius: 20px;
+}
+.button2 {
+  background-color: #88b188;
+}
+.nature {
+  height: 200px;
+  width: 200px;
+  margin-top: 20px;
+}
+.border {
+  border: 1px solid blue !important;
+  height: 400px;
+  width: 787px;
+  /* margin-right: -28px; */
+  margin-left: 389px;
+}
+.cardtext {
+  border: 1px solid red !important;
+  border-radius: 20px;
+}
+.apple {
+  font-size: 43px;
+  color: #cf3838;
+}
+.alarm {
+  font-size: 33px;
+  color: green;
+}
+.aero {
+  font-size: 32px;
+  color: blue;
+  background: orange;
+}
+
+.stop {
+  font-size: 39px;
+  color: darkturquoise;
+  margin-left: 10px;
+}
+
+.wifi {
+  font-size: 35px;
+  color: darkgreen;
+  background-color: rgb(173, 39, 39);
+  margin-left: 8px;
+  margin-right: 6px;
+  cursor: pointer;
+}
+
+.headphones {
+  font-size: 100px;
+  color: #cf3838;
+  background-color: aqua;
+  margin-top: 30px;
+}
+
+.Sample {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* text-align: center; */
+}
+
+.calc1 {
+  width: 160px;
+  margin-left: 730px;
+}
+
+.calc2 {
+  width: 160px;
+  margin-left: 730px;
+}
+
+.button {
+  margin-left: 40px;
+}
+
+.output {
+  width: 160px;
+  margin-left: 730px;
+}

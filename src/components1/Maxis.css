@@ -1,0 +1,238 @@
+.header-info{
+    background-color: rgb(17, 94, 103);
+    width: 1580px;
+    height: 50px;
+    font-family: "AdihausDIN",Helvetica, Arial, sans-serif;
+    
+    margin-left: 0px;
+    padding: 8px;
+    font-weight: 700;
+}
+.dot{
+    margin-left: 380px;
+    font-size: 30px;
+    color:green;
+    margin-top: 3px;
+    cursor: pointer;
+}
+
+.close{
+    margin-left: 1400px;
+    margin-top: -80px;
+    font-size: 25px;
+    color: white;
+    cursor: pointer;
+}
+/* .sub{
+    background-color:rgb(242, 242, 242);
+    width: 1580px;
+    height: 50px;
+    margin-top: 0px;
+} */
+
+/* .cart{
+    margin-left: 1000px;
+    font-size: 20px;
+    margin-top:- 0px;
+    color:rgb(17, 94, 103);
+} */
+
+.search{
+    margin-left: 670px;
+    margin-top: -80px;
+    cursor: pointer;
+    font-size: 25px;
+    color:#28a745;
+    
+}
+
+.image{
+    margin-top:-78px;
+    margin-left:1300px;
+    height: 45px;
+    width: 150px;
+    cursor: pointer;
+}
+
+.add{
+    height: 10px;
+    width: 16px;
+    margin-top: -40px;
+    margin-left: 68rem;
+    cursor: pointer;
+}
+
+.admin{
+    height: 10px;
+    width: 16px;
+    margin-top: -40px;
+    margin-left: 80rem;
+    cursor: pointer;
+}
+
+/* .slide{
+    height: 0px;
+} */
+
+.lat{
+    color:rgb(17, 94, 103);
+    font-family : Maxis, sans-serif;
+    font-weight:1000;
+    font-size: 150px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.view{
+    color:rgb(64, 199, 6);
+    font-family: Maxis, sans-serif;
+    font-size: 15px;
+    font-weight: 800;
+    margin-left: 100px;
+}
+
+.arrow{
+    color:rgb(64, 199, 6);
+font-size: 30px;
+margin-left: 190px;
+margin-top: -50px;
+}
+
+.footer-info{
+     
+      background-color:  rgb(62, 74, 86); 
+      height: 400px;
+    
+}
+
+.apple{
+    font-size: 33px;
+    margin-left: 180px;
+    color: white;
+    margin-top: 1px;
+    cursor: pointer;
+}
+
+.gplay{
+    font-size: 25px;
+    color: white;
+    margin-left: 250px;
+    margin-top: -55px;
+    cursor: pointer;
+
+}
+
+.fb{
+    font-size: 25px;
+    color: white;
+    margin-left: 180px;
+    cursor: pointer;
+
+}
+
+.insta{
+    font-size: 25px;
+    color: white;
+    margin-left: 245px;
+    margin-top: -50px;
+    cursor: pointer;
+
+}
+
+.you{
+    font-size: 30px;
+    color: white;
+    margin-left: 315px;
+    margin-top: -95px;
+    cursor: pointer;
+
+}
+
+.twit{
+    font-size: 30px;
+    color: white;
+    margin-left: 390px;
+    margin-top: -150px;
+    cursor: pointer;
+
+}
+
+.in{
+    font-size: 30px;
+    color: white;
+    margin-left: 460px;
+    margin-top: -195px;
+    cursor: pointer;
+
+}
+
+.ol{
+    font-size: 11px;
+    color: white;
+    margin-left: 580px;
+    font-family:Maxis, sans-serif;
+    font-weight:bold;
+    word-spacing:0px;
+    margin-top: -260px;
+    cursor: pointer;
+    list-style-type: none;
+
+}
+
+.ol2{
+    font-size: 11px;
+    color: white;
+    margin-left: 800px;
+    font-family:Maxis, sans-serif;
+    font-weight:bold;
+    word-spacing:opx;
+    margin-top: -220px;
+    cursor: pointer;
+    list-style-type: none;
+
+}
+
+.ol3{
+    font-size: 11px;
+    color: white;
+    margin-left: 1030px;
+    font-family:Maxis, sans-serif;
+    font-weight:bold;
+    word-spacing:opx;
+    margin-top: -160px;
+    cursor: pointer;
+    list-style-type:none;
+
+}
+
+.bgcolor{
+    background-color:#c9dbe5;
+    height: 870px;
+}
+
+.bm{
+    margin-left: 1420px;
+    font-family:Maxis,sans-serif;
+    font-weight:800;
+    color: rgb(17, 94, 103);
+    font-size : 15px;
+    margin-top:-38px;
+    cursor:pointer;
+    opacity:0.5; 
+}
+
+.bm:hover{
+    opacity: 1;
+}
+
+/* .bread{
+    margin-left: 60px;
+} */
+
+/* .react{
+    margin-left: 45rem;
+} */
+
+/* .cal{
+    margin-left: 45rem;
+} */
